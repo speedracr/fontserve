@@ -1,3 +1,10 @@
-// Place all the styles related to the Fonts controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css?family=Bitter|Roboto+Condensed');
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.2rem;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: 'Bitter', sans-serif;
+}

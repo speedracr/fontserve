@@ -1,5 +1,3 @@
-[Imgur](https://i.imgur.com/T9f1pw9.png)
-
 # FontServe
 ### Your very own font hosting service
 

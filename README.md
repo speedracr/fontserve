@@ -45,6 +45,8 @@ return a custom-made CSS file like this:
 }
 ```
 
+:information_source: `https://fonts.googleapis.com/css?family=Lato:400,700`
+
 ## Todos
 
 ### MVP

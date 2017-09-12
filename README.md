@@ -45,7 +45,7 @@ return a custom-made CSS file like this:
 }
 ```
 
-:information_source: For a full example, see `https://fonts.googleapis.com/css?family=Open+Sans:400,700`
+:information_source: For a full example, see [`https://fonts.googleapis.com/css?family=Open+Sans:400,700`](https://fonts.googleapis.com/css?family=Open+Sans:400,700`)
 
 ## Todos
 
